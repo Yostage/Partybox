@@ -3,3 +3,4 @@ topic2
 line3  
 line4  
 bar 
+foo 
